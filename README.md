@@ -1,3 +1,3 @@
 # store
 
-Hello my name is Hongyeol
+Hello my name is Juhyeon
