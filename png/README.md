@@ -1,3 +1,1 @@
-# pic
-
-<img width="" height="" src="./Png/design1.png"></img>
+# 과제물 스크린샷 화면 및 그 밖에 사진이 저장되는 폴더
