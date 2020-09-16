@@ -1,11 +1,8 @@
-# store
-## 중간제목
-    [juhyeon](https://github.com/ju-hyeon123)
-### 작은제목
+# 19173043 임주현
 
-     1.첫번째
-     2.두번째
-     3.세번째
-  
-    
-Hello my name is Juhyeon
+## 1주차 과제
+
+## 2주차 과제
+
+
+## 3주차 과제
